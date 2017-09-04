@@ -1,2 +1,2 @@
 # icdaw
-primer projecta
+primer projecte
